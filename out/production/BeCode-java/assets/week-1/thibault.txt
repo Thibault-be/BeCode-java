@@ -1,17 +1,12 @@
-thibault speelt in de speeltuin
-thibault gaat naar school
-jill is aan het gamen
-thibault gaat nog niet naar huis
-de koelkast is helemaal zo koel niet
-ik typ hier nog enkele woorden om te kijken of dit wel allemaal goed werkt
-en nog wat meer woorden
-thibault
-jill
-matthieu
-matthieu matthieu jill
-julie julie
-julie jill
-gaat
-spelen
-huis
-gamen
+aa
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
