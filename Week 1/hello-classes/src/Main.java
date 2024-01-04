@@ -50,8 +50,6 @@ public class Main{
             System.out.println("age: " + line.getAge());
             System.out.println();
         }
-
-
     }
 
     public static String[] split(String line){
